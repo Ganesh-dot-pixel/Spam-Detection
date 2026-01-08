@@ -1,6 +1,6 @@
 Streamlit
 nlrk
-sclkit-learn==1.6.1
+scikit-learn==1.6.1
 joblib
 pandas
 numpy
